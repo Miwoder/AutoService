@@ -1,0 +1,105 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:AutoService.Lang"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+
+    <v:String x:Key="singIn">Вход</v:String>
+    <v:String x:Key="logOut">Выйти</v:String>
+    <v:String x:Key="singUp">Регистрация</v:String>
+    <v:String x:Key="email">Email</v:String>
+    <v:String x:Key="password">Пароль</v:String>
+    <v:String x:Key="passwordConfirm">Подтвердите пароль</v:String>
+    <v:String x:Key="or">Или</v:String>
+    <v:String x:Key="back">Назад</v:String>
+    <v:String x:Key="create">Создать</v:String>
+    <v:String x:Key="invalidlogin">Неправильный логин или пароль</v:String>
+    <v:String x:Key="login">Логин</v:String>
+    <v:String x:Key="save">Сохранить</v:String>
+    <v:String x:Key="passwordNew">Новый пароль</v:String>
+    <v:String x:Key="userRole">Роль</v:String>
+    <v:String x:Key="forgetPas">Восстановить пароль</v:String>
+
+    <v:String x:Key="firstName">Имя</v:String>
+    <v:String x:Key="lastName">Фамилия</v:String>
+    <v:String x:Key="phoneNumber">Телефон</v:String>
+    <v:String x:Key="editPersonInfo">Редактировать информацию</v:String>
+    <v:String x:Key="orderDate">Дата заказа</v:String>
+    <v:String x:Key="validPass">Должен содержать минимум 8 символов, 1 верхний, 1 нижний, 1 цифру</v:String>
+
+    <v:String x:Key="persinfopage">Профиль</v:String>
+    <v:String x:Key="servicespage">Услуги</v:String>
+    <v:String x:Key="aboutUs">О нас</v:String>
+    <v:String x:Key="settingspage">Настройки</v:String>
+    <v:String x:Key="orderList">Список заказов</v:String>
+    <v:String x:Key="personsList">Список пользователей</v:String>
+
+
+    <v:String x:Key="lang">Язык</v:String>
+    <v:String x:Key="langRU">Русский</v:String>
+    <v:String x:Key="langEN">Английский</v:String>
+    <v:String x:Key="changeLangMain">ENG</v:String>
+
+    
+    
+    <v:String x:Key="theme">Тема</v:String>
+    <v:String x:Key="darktheme">Темная</v:String>
+    <v:String x:Key="lighttheme">Светлая</v:String>
+
+
+
+    <v:String x:Key="aboutUsText1">Наша команда – команда профессионалов, увлеченных своей профессией. Мы любим свою работу, и это доказывается многолетней работой и десятками отзывов благодарных клиентов.
+У нас решаются самые сложные проблемы, связанные с двигателем авто или топливной системы. Если же явных проблем с машиной пока не наблюдается, но вы не хотите доводить до крайностей, вы всегда можете пройти диагностику.</v:String>
+    <v:String x:Key="aboutUsText2">Команда профессионалов СТО справится с самой сложной задачей, даже если в других сервисах в помощи вам отказали. Широкий спектр услуг и доступные цены – вот что выгодно отличает профессиональный автосервис.</v:String>
+
+
+
+    <v:String x:Key="denyNotification">Отклонить заказ</v:String>
+    <v:String x:Key="acceptNotification">Принять заказ</v:String>
+    <v:String x:Key="readyNotification">Заказ готов</v:String>
+    <v:String x:Key="deleteFromList">Удалить из списка</v:String>
+
+    <v:String x:Key="price">Цена</v:String>
+    <v:String x:Key="orderStatus">Статус</v:String>
+    
+    
+    <v:String x:Key="repair">Ремонт</v:String>
+    <v:String x:Key="engine">Двигателя</v:String>
+    <v:String x:Key="repairEngine">Включает в себя: ремонт бензиновых двигателей, ремонт дизельных двигателей, pемонт гибридных двигателей, замена маслосъёмных колпачков, замена прокладки поддона, замена ГБЦ, замена прокладки ГБЦ, замена цепи ГРМ, замена клапанной крышки.</v:String>
+    <v:String x:Key="editPrice">Изменить цену</v:String>
+    <v:String x:Key="suspension">Подвески</v:String>
+    <v:String x:Key="repairSuspension">Включает в себя: ремонт задней/передней подвески, замена шаровой опоры, замена рычага, ремонт балки, замена шруса, замена сайлентблоков рычагов подвески, замена сайлентблоков подрамника, замена амортизаторов, замена втулок стабилизаторов.</v:String>
+    <v:String x:Key="grip">Сцепления</v:String>
+    <v:String x:Key="repairGrip">Осуществляется квалифицированная замена узла сцепления в Минске на автомобилях всех марок по доступной цене. Опытные механики выполняют замену деталей сцепления в минимальный срок с применением современного оборудования.</v:String>
+    <v:String x:Key="steering">Рулевого управления</v:String>
+    <v:String x:Key="repairSteering">Включает в себя: замена рулевого наконечника, замена рулевой рейки, ремонт рулевой рейки, замена рулевой тяги, замена рулевых крестовин, ремонт и замена гидроусилителя, замена масла в гидроусилителе руля.</v:String>
+    <v:String x:Key="electric">Электрики</v:String>
+    <v:String x:Key="repairElectric">Включает в себя: ремонт и восстановление, электропроводки автомобиля, ремонт электронной части двигателя, замена приборов, переключателей, датчиков, реле, ремонт стеклоочистителя, ремонт стеклоподъёмника двери, ремонт ABS.</v:String>
+    <v:String x:Key="capiler">Суппортов</v:String>
+    <v:String x:Key="repairCapiler">Ремонт и диагностика тормозных суппортов является необходимой вещью, как замена масла в двигателе. Ремонт тормозных суппортов наиболее необходим в условиях нашей зимы, потому как на механизмах тормозной системы оседает большое количество соли.</v:String>
+    <v:String x:Key="starters">Стартеров</v:String>
+    <v:String x:Key="repairStarters">Включает в себя: диагностика стартера, диагностика генератора, ремонт стартера любой сложности, ремонт генератора любой сложности.</v:String>
+    <v:String x:Key="muffler">Глушителей</v:String>
+    <v:String x:Key="repairMuffler">Включает в себя: замена приёмной трубы, замена гофры глушителя (под днищем), замена катализатора (под днищем), замена катализатора (в мотором отсеке), замена катализатора на пламегаситель, замена датчика лямбда зонд, замена/ремонт коллектора.</v:String>
+    <v:String x:Key="infoadd">*конечная цена сделки может отличаться и будет точно названа администратором.</v:String>
+    <v:String x:Key="buy">Заказать</v:String>
+
+    <v:String x:Key="changeToUser">Изменить статус на USER</v:String>
+    <v:String x:Key="changeToAdmin">Изменить статус на ADMIN</v:String>
+    <v:String x:Key="change">Изменить</v:String>
+    <v:String x:Key="roleTo">роль на:</v:String>
+    <v:String x:Key="Status">Статус</v:String>
+    <v:String x:Key="User">Пользователь</v:String>
+
+    
+    <v:String x:Key="cancelOrder">Отменить заказ с ID:</v:String>
+    <v:String x:Key="cancel">Отменить</v:String>
+
+
+    <v:String x:Key="changeReadiness">Изменить статус готовности заказа с </v:String>
+    <v:String x:Key="To">на</v:String>
+
+
+    <v:String x:Key="DeleteAcc">Удалить аккаунт</v:String>
+
+</ResourceDictionary>

@@ -1,0 +1,107 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:AutoService.Lang"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+
+    <v:String x:Key="singIn">Sing in</v:String>
+    <v:String x:Key="logOut">Log out</v:String>
+    <v:String x:Key="singUp">Sing up</v:String>
+    <v:String x:Key="email">Email</v:String>
+    <v:String x:Key="password">Password</v:String>
+    <v:String x:Key="passwordConfirm">Confirm password</v:String>
+    <v:String x:Key="or">Or</v:String>
+    <v:String x:Key="back">Back</v:String>
+    <v:String x:Key="create">Create</v:String>
+    <v:String x:Key="invalidlogin">Invalid login or password</v:String>
+    <v:String x:Key="login">Login</v:String>
+    <v:String x:Key="passwordNew">New password</v:String>
+    <v:String x:Key="userRole">Role</v:String>
+    <v:String x:Key="save">Save</v:String>
+    <v:String x:Key="forgetPas">Forget password</v:String>
+
+
+
+    <v:String x:Key="firstName">First name</v:String>
+    <v:String x:Key="lastName">Last name</v:String>
+    <v:String x:Key="phoneNumber">Phone number</v:String>
+    <v:String x:Key="editPersonInfo">Edit info</v:String>
+    <v:String x:Key="orderDate">Order date</v:String>
+    <v:String x:Key="validPass">Must contain at least 8 characters, 1 uppercase, 1 lowercase, 1 number</v:String>
+    
+
+    <v:String x:Key="persinfopage">Profile</v:String>
+    <v:String x:Key="servicespage">Services</v:String>
+    <v:String x:Key="aboutUs">About us</v:String>
+    <v:String x:Key="settingspage">Settings</v:String>
+    <v:String x:Key="personsList">Person list</v:String>
+    <v:String x:Key="orderList">Order list</v:String>
+    
+
+    <v:String x:Key="lang">Language</v:String>
+    <v:String x:Key="langRU">Russian</v:String>
+    <v:String x:Key="langEN">English</v:String>
+    <v:String x:Key="changeLangMain">РУС</v:String>
+
+    <v:String x:Key="theme">Theme</v:String>
+    <v:String x:Key="darktheme">Dark</v:String>
+    <v:String x:Key="lighttheme">Light</v:String>
+
+
+
+    <v:String x:Key="aboutUsText1">Our team is a team of professionals passionate about their profession. We love our work, and this is proved by many years of work and dozens of reviews from grateful customers.
+We solve the most complex problems associated with the engine of a car or fuel system. If there are still no obvious problems with the machine, but you do not want to take it to extremes, you can always go through the diagnosis.</v:String>
+    <v:String x:Key="aboutUsText2">A team of STO professionals will cope with the most difficult task, even if you have been denied assistance in other services. A wide range of services and affordable prices - this is what distinguishes a professional car service.</v:String>
+
+
+
+    <v:String x:Key="denyNotification">Cancel</v:String>
+    <v:String x:Key="acceptNotification">Accept</v:String>
+    <v:String x:Key="readyNotification">Ready</v:String>
+    <v:String x:Key="deleteFromList">Delete from list</v:String>
+
+    <v:String x:Key="price">Price</v:String>
+    <v:String x:Key="orderStatus">Status</v:String>
+
+
+    <v:String x:Key="repair">Repair</v:String>
+    <v:String x:Key="engine">Engine</v:String>
+    <v:String x:Key="repairEngine">Includes: repair of gasoline engines, repair of diesel engines, repair of hybrid engines, replacement of oil scraper caps, replacement of the gasket of the pan, replacement of the cylinder head, replacement of the cylinder head gasket, replacement of the timing chain, replacement of the valve cover.</v:String>
+    <v:String x:Key="editPrice">Edit price</v:String>
+    <v:String x:Key="suspension">Suspension</v:String>
+    <v:String x:Key="repairSuspension">Includes: rear / front suspension repair, ball joint replacement, lever replacement, beam repair, CV joint replacement, replacement of silent blocks of suspension arms, replacement of silent blocks of subframe, replacement of shock absorbers, replacement of stabilizer bushings.</v:String>
+    <v:String x:Key="grip">Grip</v:String>
+    <v:String x:Key="repairGrip">A qualified replacement of the clutch assembly in Minsk is carried out on cars of all brands at an affordable price. Experienced mechanics perform replacement of clutch parts in the shortest possible time using modern equipment.</v:String>
+    <v:String x:Key="steering">Steering</v:String>
+    <v:String x:Key="repairSteering">Includes: replacing the steering tip, replacing the steering rack, repairing the steering rack, replacing the tie rod, replacing the steering spider, power steering repair and replacement, oil change in the power steering.</v:String>
+    <v:String x:Key="electric">Electric</v:String>
+    <v:String x:Key="repairElectric">Includes: repair and restoration, car wiring, repair of the electronic part of the engine, replacement of appliances, switches, sensors, relays, wiper repair, door window repair, ABS repair.</v:String>
+    <v:String x:Key="capiler">Capiler</v:String>
+    <v:String x:Key="repairCapiler">Repair and diagnosis of brake calipers is a necessary thing, like changing the oil in the engine. Brake caliper repair is most needed in the conditions of our winter, because a large amount of salt settles on the mechanisms of the brake system.</v:String>
+    <v:String x:Key="starters">Starters</v:String>
+    <v:String x:Key="repairStarters">Includes: starter diagnostics, generator diagnostics, starter repair of any complexity, generator repair of any complexity.</v:String>
+    <v:String x:Key="muffler">Muffler</v:String>
+    <v:String x:Key="repairMuffler">Includes: replacement of the intake pipe, replacement of the muffler corrugation (under the bottom), replacement of the catalyst (under the bottom), replacement of the catalyst (in the engine compartment), replacement of the catalyst with a flame arrester, replacement of the lambda probe sensor, replacement / repair of the collector.</v:String>
+    <v:String x:Key="infoadd">*The final transaction price may vary and will be accurately named by the administrator.</v:String>
+    <v:String x:Key="buy">Buy</v:String>
+
+
+    <v:String x:Key="changeToUser">Change status to USER</v:String>
+    <v:String x:Key="changeToAdmin">Change status to ADMIN</v:String>
+
+    <v:String x:Key="change">Change</v:String>
+    <v:String x:Key="roleTo">role to:</v:String>
+    <v:String x:Key="Status">Status</v:String>
+    <v:String x:Key="User">User</v:String>
+
+    <v:String x:Key="cancelOrder">Cancel order with ID:</v:String>
+    <v:String x:Key="cancel">Cancel</v:String>
+
+
+    <v:String x:Key="changeReadiness">Change readiness status order with</v:String>
+    <v:String x:Key="To">To</v:String>
+
+
+    <v:String x:Key="DeleteAcc">Delete account</v:String>
+
+</ResourceDictionary>
